@@ -1,1 +1,17 @@
 
+move p1 p2
+up     w - kp5
+niður S - kp2
+hægri  D - kp3
+vinstri A - kp1
+snúa priki vinstri   v - KP4
+snúa priki hægri    b - KP6
+skjóta1     f  -   down
+skjóta2     g  -  Right
+skjóta stóru     h   - Left
+
+map 
+i - up
+j - vinsri
+k - niður
+l - hægri
